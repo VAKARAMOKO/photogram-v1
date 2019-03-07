@@ -35,6 +35,12 @@ gem 'haml-rails', '~> 2.0'
 gem 'paperclip', '~> 6.1'
 # formulaire
 gem 'simple_form', '~> 4.1'
+gem 'gravatar_image_tag', '~> 1.2'
+
+gem 'bootstrap-sass', '~> 3.4.1'
+gem 'sassc-rails', '>= 2.1.0'
+gem 'jquery-rails'
+gem 'devise', '~> 4.6', '>= 4.6.1'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
